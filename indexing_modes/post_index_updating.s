@@ -1,5 +1,4 @@
-// examples of non updating indexing modes
-// the registers used inside [ .... ] are not updated
+// examples of post-updating indexing modes
 .global main
 
 .align 4
